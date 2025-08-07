@@ -25,9 +25,12 @@ aside{
 
 section{
     height: 47.5%;
+    overflow-x: auto;
 }
 article {
-    height: 44.5%
+    height: 44.5%;
+    overflow-x: auto;
+
 }
 
 section, article { 
